@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: d0ce4d63bc8c71a4abaf4e0e41799ec2
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: annotation1
+    100002: cluster10Handle
+    100004: cluster11Handle
+    100006: cluster12Handle
+    100008: cluster13Handle
+    100010: cluster14Handle
+    100012: cluster15Handle
+    100014: cluster19Handle
+    100016: cluster1Handle
+    100018: cluster20Handle
+    100020: cluster21Handle
+    100022: cluster22Handle
+    100024: cluster23Handle
+    100026: cluster24Handle
+    100028: cluster2Handle
+    100030: cluster3Handle
+    100032: cluster4Handle
+    100034: cluster5Handle
+    100036: cluster6Handle
+    100038: curve1
+    100040: curve2
+    100042: curve3
+    100044: curve4
+    100046: curve5
+    100048: curve6
+    100050: curve7
+    100052: curve8
+    100054: group1
+    100056: group2
+    100058: group3
+    100060: group5
+    100062: group6
+    100064: group7
+    100066: ikHandle1
+    100068: ikHandle2
+    100070: ikHandle3
+    100072: ikHandle5
+    100074: ikHandle6
+    100076: ikHandle7
+    100078: //RootNode
+    100080: joint1
+    100082: joint10
+    100084: joint10 1
+    100086: joint11
+    100088: joint12
+    100090: joint12 1
+    100092: joint13
+    100094: joint14
+    100096: joint14 1
+    100098: joint15
+    100100: joint16
+    100102: joint16 1
+    100104: joint17
+    100106: joint18
+    100108: joint19
+    100110: joint19 1
+    100112: joint2
+    100114: joint2 1
+    100116: joint2 2
+    100118: joint20
+    100120: joint20 1
+    100122: joint20 2
+    100124: joint21
+    100126: joint21 1
+    100128: joint22
+    100130: joint22 1
+    100132: joint22 2
+    100134: joint22 3
+    100136: joint23
+    100138: joint23 1
+    100140: joint24
+    100142: joint24 1
+    100144: joint24 2
+    100146: joint24 3
+    100148: joint25
+    100150: joint25 1
+    100152: joint26
+    100154: joint26 1
+    100156: joint27
+    100158: joint29
+    100160: joint3
+    100162: joint3 1
+    100164: joint30
+    100166: joint31
+    100168: joint32
+    100170: joint32 1
+    100172: joint33
+    100174: joint34
+    100176: joint34 1
+    100178: joint35
+    100180: joint36
+    100182: joint37
+    100184: joint38
+    100186: joint39
+    100188: joint4
+    100190: joint4 1
+    100192: joint4 2
+    100194: joint40
+    100196: joint41
+    100198: joint5
+    100200: joint5 1
+    100202: joint51
+    100204: joint6
+    100206: joint6 1
+    100208: joint6 2
+    100210: joint6 3
+    100212: joint61
+    100214: joint7
+    100216: joint7 1
+    100218: joint71
+    100220: joint8
+    100222: joint8 1
+    100224: joint8 2
+    100226: joint8 3
+    100228: joint82
+    100230: joint83
+    100232: joint84
+    100234: joint85
+    100236: joint86
+    100238: joint9
+    100240: joint9 1
+    100242: locator1
+    100244: Mesh_Squid
+    100246: RIG_Skeleton
+    100248: Spine_Hips
+    100250: Squid_Rig
+    400000: annotation1
+    400002: cluster10Handle
+    400004: cluster11Handle
+    400006: cluster12Handle
+    400008: cluster13Handle
+    400010: cluster14Handle
+    400012: cluster15Handle
+    400014: cluster19Handle
+    400016: cluster1Handle
+    400018: cluster20Handle
+    400020: cluster21Handle
+    400022: cluster22Handle
+    400024: cluster23Handle
+    400026: cluster24Handle
+    400028: cluster2Handle
+    400030: cluster3Handle
+    400032: cluster4Handle
+    400034: cluster5Handle
+    400036: cluster6Handle
+    400038: curve1
+    400040: curve2
+    400042: curve3
+    400044: curve4
+    400046: curve5
+    400048: curve6
+    400050: curve7
+    400052: curve8
+    400054: group1
+    400056: group2
+    400058: group3
+    400060: group5
+    400062: group6
+    400064: group7
+    400066: ikHandle1
+    400068: ikHandle2
+    400070: ikHandle3
+    400072: ikHandle5
+    400074: ikHandle6
+    400076: ikHandle7
+    400078: //RootNode
+    400080: joint1
+    400082: joint10
+    400084: joint10 1
+    400086: joint11
+    400088: joint12
+    400090: joint12 1
+    400092: joint13
+    400094: joint14
+    400096: joint14 1
+    400098: joint15
+    400100: joint16
+    400102: joint16 1
+    400104: joint17
+    400106: joint18
+    400108: joint19
+    400110: joint19 1
+    400112: joint2
+    400114: joint2 1
+    400116: joint2 2
+    400118: joint20
+    400120: joint20 1
+    400122: joint20 2
+    400124: joint21
+    400126: joint21 1
+    400128: joint22
+    400130: joint22 1
+    400132: joint22 2
+    400134: joint22 3
+    400136: joint23
+    400138: joint23 1
+    400140: joint24
+    400142: joint24 1
+    400144: joint24 2
+    400146: joint24 3
+    400148: joint25
+    400150: joint25 1
+    400152: joint26
+    400154: joint26 1
+    400156: joint27
+    400158: joint29
+    400160: joint3
+    400162: joint3 1
+    400164: joint30
+    400166: joint31
+    400168: joint32
+    400170: joint32 1
+    400172: joint33
+    400174: joint34
+    400176: joint34 1
+    400178: joint35
+    400180: joint36
+    400182: joint37
+    400184: joint38
+    400186: joint39
+    400188: joint4
+    400190: joint4 1
+    400192: joint4 2
+    400194: joint40
+    400196: joint41
+    400198: joint5
+    400200: joint5 1
+    400202: joint51
+    400204: joint6
+    400206: joint6 1
+    400208: joint6 2
+    400210: joint6 3
+    400212: joint61
+    400214: joint7
+    400216: joint7 1
+    400218: joint71
+    400220: joint8
+    400222: joint8 1
+    400224: joint8 2
+    400226: joint8 3
+    400228: joint82
+    400230: joint83
+    400232: joint84
+    400234: joint85
+    400236: joint86
+    400238: joint9
+    400240: joint9 1
+    400242: locator1
+    400244: Mesh_Squid
+    400246: RIG_Skeleton
+    400248: Spine_Hips
+    400250: Squid_Rig
+    4300000: Mesh_Squid
+    7400000: Swim
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh_Squid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: annotation1
+        weight: 1
+      - path: Mesh_Squid
+        weight: 1
+      - path: RIG_Skeleton
+        weight: 1
+      - path: RIG_Skeleton/ikHandle1
+        weight: 1
+      - path: RIG_Skeleton/ikHandle2
+        weight: 1
+      - path: RIG_Skeleton/ikHandle3
+        weight: 1
+      - path: RIG_Skeleton/ikHandle5
+        weight: 1
+      - path: RIG_Skeleton/ikHandle6
+        weight: 1
+      - path: RIG_Skeleton/ikHandle7
+        weight: 1
+      - path: RIG_Skeleton/joint37
+        weight: 1
+      - path: RIG_Skeleton/joint37/curve1
+        weight: 1
+      - path: RIG_Skeleton/joint37/curve2
+        weight: 1
+      - path: RIG_Skeleton/joint37/curve3
+        weight: 1
+      - path: RIG_Skeleton/joint37/curve4
+        weight: 1
+      - path: RIG_Skeleton/joint37/curve5
+        weight: 1
+      - path: RIG_Skeleton/joint37/curve6
+        weight: 1
+      - path: RIG_Skeleton/joint37/curve7
+        weight: 1
+      - path: RIG_Skeleton/joint37/curve8
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint1/joint38
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint1/joint38/joint39
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint1/joint38/joint40
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint1/joint38/joint82
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint3
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint3/joint2 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint3/joint2 1/joint4 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint3/joint2 1/joint4 1/joint5
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint3/joint2 1/joint4 1/joint5/joint6 2
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint3/joint2 1/joint4 1/joint5/joint6 2/joint7
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint3/joint2 1/joint4 1/joint5/joint6 2/joint7/joint8
+          2
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint3/joint2 1/joint4 1/joint5/joint6 2/joint7/joint8
+          2/joint9
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint3/joint2 1/joint4 1/joint5/joint6 2/joint7/joint8
+          2/joint9/joint10
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint27
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint27/joint19
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint27/joint19/joint20 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint27/joint19/joint20 1/joint21
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint27/joint19/joint20 1/joint21/joint22 2
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint27/joint19/joint20 1/joint21/joint22 2/joint23
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint27/joint19/joint20 1/joint21/joint22 2/joint23/joint24
+          2
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint27/joint19/joint20 1/joint21/joint22 2/joint23/joint24
+          2/joint25
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint27/joint19/joint20 1/joint21/joint22 2/joint23/joint24
+          2/joint25/joint26
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint41
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint41/joint11
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint41/joint11/joint12 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint41/joint11/joint12 1/joint13
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint41/joint11/joint12 1/joint13/joint14 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint41/joint11/joint12 1/joint13/joint14 1/joint15
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint41/joint11/joint12 1/joint13/joint14 1/joint15/joint16
+          1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint41/joint11/joint12 1/joint13/joint14 1/joint15/joint16
+          1/joint17
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint41/joint11/joint12 1/joint13/joint14 1/joint15/joint16
+          1/joint17/joint18
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint51
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint51/joint29
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint51/joint29/joint30
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint51/joint29/joint30/joint31
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint51/joint29/joint30/joint31/joint32 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint51/joint29/joint30/joint31/joint32 1/joint33
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint51/joint29/joint30/joint31/joint32 1/joint33/joint34
+          1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint51/joint29/joint30/joint31/joint32 1/joint33/joint34
+          1/joint35
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint51/joint29/joint30/joint31/joint32 1/joint33/joint34
+          1/joint35/joint36
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint61
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint61/joint19 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint61/joint19 1/joint20 2
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint61/joint19 1/joint20 2/joint21 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint61/joint19 1/joint20 2/joint21 1/joint22 3
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint61/joint19 1/joint20 2/joint21 1/joint22 3/joint23
+          1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint61/joint19 1/joint20 2/joint21 1/joint22 3/joint23
+          1/joint24 3
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint61/joint19 1/joint20 2/joint21 1/joint22 3/joint23
+          1/joint24 3/joint25 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint61/joint19 1/joint20 2/joint21 1/joint22 3/joint23
+          1/joint24 3/joint25 1/joint26 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint71
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint71/joint2 2
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint71/joint2 2/joint4 2
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint71/joint2 2/joint4 2/joint5 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint71/joint2 2/joint4 2/joint5 1/joint6 3
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint71/joint2 2/joint4 2/joint5 1/joint6 3/joint7
+          1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint71/joint2 2/joint4 2/joint5 1/joint6 3/joint7
+          1/joint8 3
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint71/joint2 2/joint4 2/joint5 1/joint6 3/joint7
+          1/joint8 3/joint9 1
+        weight: 1
+      - path: RIG_Skeleton/joint37/joint71/joint2 2/joint4 2/joint5 1/joint6 3/joint7
+          1/joint8 3/joint9 1/joint10 1
+        weight: 1
+      - path: RIG_Skeleton/locator1
+        weight: 1
+      - path: Spine_Hips
+        weight: 1
+      - path: Spine_Hips/joint4
+        weight: 1
+      - path: Spine_Hips/joint4/joint6
+        weight: 1
+      - path: Spine_Hips/joint4/joint6/joint8
+        weight: 1
+      - path: Spine_Hips/joint12
+        weight: 1
+      - path: Spine_Hips/joint12/joint14
+        weight: 1
+      - path: Spine_Hips/joint12/joint14/joint16
+        weight: 1
+      - path: Spine_Hips/joint20
+        weight: 1
+      - path: Spine_Hips/joint20/joint22
+        weight: 1
+      - path: Spine_Hips/joint20/joint22/joint24
+        weight: 1
+      - path: Spine_Hips/joint83
+        weight: 1
+      - path: Spine_Hips/joint83/joint32
+        weight: 1
+      - path: Spine_Hips/joint83/joint32/joint34
+        weight: 1
+      - path: Spine_Hips/joint84
+        weight: 1
+      - path: Spine_Hips/joint84/joint22 1
+        weight: 1
+      - path: Spine_Hips/joint84/joint22 1/joint24 1
+        weight: 1
+      - path: Spine_Hips/joint85
+        weight: 1
+      - path: Spine_Hips/joint85/joint6 1
+        weight: 1
+      - path: Spine_Hips/joint85/joint6 1/joint8 1
+        weight: 1
+      - path: Spine_Hips/joint86
+        weight: 1
+      - path: Spine_Hips/joint86/joint2
+        weight: 1
+      - path: Spine_Hips/joint86/joint2/joint3 1
+        weight: 1
+      - path: Squid_Rig
+        weight: 1
+      - path: Squid_Rig/group1
+        weight: 1
+      - path: Squid_Rig/group1/cluster13Handle
+        weight: 1
+      - path: Squid_Rig/group1/cluster14Handle
+        weight: 1
+      - path: Squid_Rig/group1/cluster15Handle
+        weight: 1
+      - path: Squid_Rig/group2
+        weight: 1
+      - path: Squid_Rig/group2/cluster10Handle
+        weight: 1
+      - path: Squid_Rig/group2/cluster11Handle
+        weight: 1
+      - path: Squid_Rig/group2/cluster12Handle
+        weight: 1
+      - path: Squid_Rig/group3
+        weight: 1
+      - path: Squid_Rig/group3/cluster1Handle
+        weight: 1
+      - path: Squid_Rig/group3/cluster2Handle
+        weight: 1
+      - path: Squid_Rig/group3/cluster3Handle
+        weight: 1
+      - path: Squid_Rig/group5
+        weight: 1
+      - path: Squid_Rig/group5/cluster4Handle
+        weight: 1
+      - path: Squid_Rig/group5/cluster5Handle
+        weight: 1
+      - path: Squid_Rig/group5/cluster6Handle
+        weight: 1
+      - path: Squid_Rig/group6
+        weight: 1
+      - path: Squid_Rig/group6/cluster22Handle
+        weight: 1
+      - path: Squid_Rig/group6/cluster23Handle
+        weight: 1
+      - path: Squid_Rig/group6/cluster24Handle
+        weight: 1
+      - path: Squid_Rig/group7
+        weight: 1
+      - path: Squid_Rig/group7/cluster19Handle
+        weight: 1
+      - path: Squid_Rig/group7/cluster20Handle
+        weight: 1
+      - path: Squid_Rig/group7/cluster21Handle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

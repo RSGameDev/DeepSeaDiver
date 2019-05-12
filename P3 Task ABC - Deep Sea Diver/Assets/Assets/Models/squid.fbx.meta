@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 14bba73faacd7c548bd4ff61b99476da
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: IMPORTED_annotation1
+    100002: IMPORTED_annotation2
+    100004: IMPORTED_annotation3
+    100006: joint1
+    100008: joint12
+    100010: joint14
+    100012: joint14 1
+    100014: joint16
+    100016: joint16 1
+    100018: joint20
+    100020: joint22
+    100022: joint22 1
+    100024: joint24
+    100026: joint24 1
+    100028: joint30
+    100030: joint32
+    100032: joint32 1
+    100034: joint34
+    100036: joint34 1
+    100038: joint39
+    100040: joint4
+    100042: joint40
+    100044: joint6
+    100046: joint6 1
+    100048: joint8
+    100050: joint8 1
+    100052: joint82
+    100054: joint83
+    100056: joint84
+    100058: joint85
+    100060: joint86
+    100062: SQUID
+    100064: //RootNode
+    100066: Squid_Root
+    400000: IMPORTED_annotation1
+    400002: IMPORTED_annotation2
+    400004: IMPORTED_annotation3
+    400006: joint1
+    400008: joint12
+    400010: joint14
+    400012: joint14 1
+    400014: joint16
+    400016: joint16 1
+    400018: joint20
+    400020: joint22
+    400022: joint22 1
+    400024: joint24
+    400026: joint24 1
+    400028: joint30
+    400030: joint32
+    400032: joint32 1
+    400034: joint34
+    400036: joint34 1
+    400038: joint39
+    400040: joint4
+    400042: joint40
+    400044: joint6
+    400046: joint6 1
+    400048: joint8
+    400050: joint8 1
+    400052: joint82
+    400054: joint83
+    400056: joint84
+    400058: joint85
+    400060: joint86
+    400062: SQUID
+    400064: //RootNode
+    400066: Squid_Root
+    4300000: SQUID
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SQUID
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

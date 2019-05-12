@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 8fa049faaff537c4c8b72364634b9000
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CORAL_01
+    100002: CORAL_02:CORAL_02
+    100004: CORAL_02:CUTTER
+    100006: CORAL_02:NAV_MESH
+    100008: CORAL_03:CORAL_03
+    100010: CORAL_03:CUTTER
+    100012: CORAL_03:NAV_MESH
+    100014: CORAL_04:CORAL_04
+    100016: CORAL_04:CUTTER
+    100018: CORAL_04:NAV_MESH
+    100020: CORAL_05:CORAL_05
+    100022: CORAL_05:CUTTER
+    100024: CORAL_05:NAV_MESH
+    100026: //RootNode
+    100028: CUTTER
+    100030: NAV_MESH
+    400000: CORAL_01
+    400002: CORAL_02:CORAL_02
+    400004: CORAL_02:CUTTER
+    400006: CORAL_02:NAV_MESH
+    400008: CORAL_03:CORAL_03
+    400010: CORAL_03:CUTTER
+    400012: CORAL_03:NAV_MESH
+    400014: CORAL_04:CORAL_04
+    400016: CORAL_04:CUTTER
+    400018: CORAL_04:NAV_MESH
+    400020: CORAL_05:CORAL_05
+    400022: CORAL_05:CUTTER
+    400024: CORAL_05:NAV_MESH
+    400026: //RootNode
+    400028: CUTTER
+    400030: NAV_MESH
+    2300000: CORAL_01
+    2300002: CORAL_02:CORAL_02
+    2300004: CORAL_02:CUTTER
+    2300006: CORAL_02:NAV_MESH
+    2300008: CORAL_03:CORAL_03
+    2300010: CORAL_03:CUTTER
+    2300012: CORAL_03:NAV_MESH
+    2300014: CORAL_04:CORAL_04
+    2300016: CORAL_04:CUTTER
+    2300018: CORAL_04:NAV_MESH
+    2300020: CORAL_05:CORAL_05
+    2300022: CORAL_05:CUTTER
+    2300024: CORAL_05:NAV_MESH
+    2300026: CUTTER
+    2300028: NAV_MESH
+    3300000: CORAL_01
+    3300002: CORAL_02:CORAL_02
+    3300004: CORAL_02:CUTTER
+    3300006: CORAL_02:NAV_MESH
+    3300008: CORAL_03:CORAL_03
+    3300010: CORAL_03:CUTTER
+    3300012: CORAL_03:NAV_MESH
+    3300014: CORAL_04:CORAL_04
+    3300016: CORAL_04:CUTTER
+    3300018: CORAL_04:NAV_MESH
+    3300020: CORAL_05:CORAL_05
+    3300022: CORAL_05:CUTTER
+    3300024: CORAL_05:NAV_MESH
+    3300026: CUTTER
+    3300028: NAV_MESH
+    4300000: CORAL_01
+    4300002: NAV_MESH
+    4300004: CUTTER
+    4300006: CORAL_02:CORAL_02
+    4300008: CORAL_02:NAV_MESH
+    4300010: CORAL_02:CUTTER
+    4300012: CORAL_03:CORAL_03
+    4300014: CORAL_03:NAV_MESH
+    4300016: CORAL_03:CUTTER
+    4300018: CORAL_04:NAV_MESH
+    4300020: CORAL_04:CORAL_04
+    4300022: CORAL_04:CUTTER
+    4300024: CORAL_05:CORAL_05
+    4300026: CORAL_05:NAV_MESH
+    4300028: CORAL_05:CUTTER
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d740683e98db0b4408ef65b1ec2e664a
+timeCreated: 1505252984
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ManicSea
+  fontNames:
+  - ManicSea
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
